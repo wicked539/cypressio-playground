@@ -1,0 +1,1 @@
+Playground project to try out cypress.io acceptance test framework
