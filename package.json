@@ -1,0 +1,9 @@
+{
+  "name": "cypressio-playground",
+  "version": "0.1.0",
+  "description": "Playground project to try out cypress.io acceptance test framework",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^2.1.0"
+  }
+}
